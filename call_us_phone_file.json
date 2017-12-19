@@ -1,0 +1,14 @@
+{
+    "version":1,
+    "timestamp":1512554591,
+    "global_phone":{
+        "phone":[{"number":"1232132", "detail":"haha"}],
+        "phone_title":"tel"
+    },
+    "technical_phone_list":[
+        {"country":"cn","service":[
+          {"phone":[{"number":"1232132", "detail":"haha"}],"phone_title":"tel"},
+          {"phone":[{"number":"1232132", "detail":"haha"}],"phone_title":"tel"}
+        ]}
+    ]
+}
